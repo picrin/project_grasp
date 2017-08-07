@@ -1,6 +1,6 @@
 # Project Outline
 
-Project GRASP is an initiative directed at talented high school students aged 13-18, i.e. years S3 – S6. The initiative will take form of weekly classes, hosted by Computing Science department at University of Glasgow.
+Project GRASP is an initiative directed at talented high school students aged 13–18, i.e. years S3–S6. The initiative will take form of weekly classes, hosted by Computing Science department at University of Glasgow.
 
 Each class will consist of:
 1. Presentation of a concept or a technique, most likely unfamiliar to students, and possibly not covered by high school curriculum. The concept presented will be computational or mathematical in nature, although concepts in other areas of science may be included.
