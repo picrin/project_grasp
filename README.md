@@ -20,15 +20,15 @@ The following are short summaries of example classes
 1. Explain dynamic programming, and how it allows to speed up recursive programs with exponential running time into programs with polynomial running time.
 2. Explain how the technique is applied in Smith-Waterman algorithm.
 3. Help students apply dynamic programming to other computational problems, similar to Smith-Waterman.
-4. Set out a task of solving, independently, the stemming word problem, which was used as an [interview problem at google](1).
+4. Set out a task of solving, independently, the stemming word problem, which was used as an [interview problem at google][1].
 
 ## Example Class - The Difference of Perfect Squares
 
 Another example class would proceed as follows:
 1. Explain how the difference of perfect squares (numbers of the form 0, 1, 4, 9, 16, etc.) can only take values with certain special properties.
-2. Explain how these properties can be applied to solve problem 3 from [BMO 2017 stage 1](2).
-3. Help students solve problem 4 from [BMO 2017 stage 2](2).
-4. Set out a task of solving, independently, problem 8 from [Polish Mathematical Olympiad 2017 stage 1](3).
+2. Explain how these properties can be applied to solve problem 3 from [BMO 2017 stage 1][2].
+3. Help students solve problem 4 from [BMO 2017 stage 2][2].
+4. Set out a task of solving, independently, problem 8 from [Polish Mathematical Olympiad 2017 stage 1][3].
 
 ## Other topics:
 
