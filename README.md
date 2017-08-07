@@ -48,6 +48,6 @@ Topics from other areas of mathematics, computing science and science may be cov
 
 Additional, more focused classes may be offered to individuals who qualify for 2nd or 3rd stage of national and international competitions (BMO, BIO, International Mathematical Olympiad, European's Girl Mathematical Olympiad, etc.).
 
-[1](http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem)
-[2](https://bmos.ukmt.org.uk/home/bmo1-2017.pdf)
-[3](https://www.om.edu.pl/sites/default/files/zadania/om/68-1.pdf)
+[1]: http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem
+[2]: https://bmos.ukmt.org.uk/home/bmo1-2017.pdf
+[3]: https://www.om.edu.pl/sites/default/files/zadania/om/68-1.pdf
