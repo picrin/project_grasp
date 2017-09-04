@@ -1,9 +1,8 @@
+<img src="/GRASP_logo.svg" alt="Project GRASP logo: a hand grasping a platonic solid" width="500px" height="500px">
+
 # Project Outline
 
 Project GRASP is an initiative directed at talented high school students aged 13–18, i.e. years S3–S6. The initiative will take form of weekly classes, hosted by Computing Science department at University of Glasgow.
-
-![Project GRASP logo: a hand grasping a platonic solid][logo]
-
 
 Each class will consist of:
 1. Presentation of a concept or a technique, most likely unfamiliar to students, and possibly not covered by high school curriculum. The concept presented will be computational or mathematical in nature, although concepts in other areas of science may be included.
@@ -54,4 +53,3 @@ Additional, more focused classes may be offered to individuals who qualify for 2
 [1]: http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem
 [2]: https://bmos.ukmt.org.uk/home/bmo1-2017.pdf
 [3]: https://www.om.edu.pl/sites/default/files/zadania/om/68-1.pdf
-[logo]: https://github.com/picrin/project_grasp/blob/master/GRASP_logo.svg "Project Grasp logo"
