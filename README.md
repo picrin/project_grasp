@@ -2,9 +2,19 @@
 
 # Project Outline
 
-Project GRASP is an initiative directed at talented high school students aged 13–18, i.e. years S3–S6. The initiative will take form of weekly classes, hosted by Computing Science department at University of Glasgow.
+Project GRASP is an initiative directed at talented high school students aged 13–18, i.e. years S3–S6, although younger students are welcome on a self-selecting basis. Older students are welcome in the role of tutors. The initiative is carried out in form of weekly classes, hosted by Computing Science department at University of Glasgow.
 
-Each class will consist of:
+# 2017/2018 classes
+In academic year 2017/2018 classes are happening every Thursday at 16:30, starting on 21st of September. The address is:
+
+18 Lilybank Gardens
+Sir Alwyn Williams Building
+University of Glasgow
+G12 8RZ
+
+# How do the classes look like?
+
+Each class consists of:
 1. Presentation of a concept or a technique, most likely unfamiliar to students, and possibly not covered by high school curriculum. The concept presented will be computational or mathematical in nature, although concepts in other areas of science may be included.
 2. Presentation of an application of the concept or the technique to a particular computational or mathematical problem.
 3. Guided solving of hard and very hard problems, where the presented concept or technique applies.
