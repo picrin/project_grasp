@@ -8,8 +8,11 @@ Project GRASP is an initiative directed at talented high school students aged 13
 In academic year 2017/2018 classes are happening every Thursday at 16:30, starting on 21st of September. The address is:
 
 18 Lilybank Gardens
+
 Sir Alwyn Williams Building
+
 University of Glasgow
+
 G12 8RZ
 
 # How do the classes look like?
