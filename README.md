@@ -15,6 +15,8 @@ University of Glasgow
 
 G12 8RZ
 
+The duration of each class is 2 hours
+
 # How do the classes look like?
 
 Each class consists of:
