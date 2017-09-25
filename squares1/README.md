@@ -4,7 +4,7 @@ I'm not sure if I put across a sufficiently clear exposition of the geometrical 
 
 ## General case.
 
-In general, for any integer `b`, we can compute `b**2` by drawing a tiled square, with each side having length of `b` tiles. Assuming `0 < a < b`, we can compute the difference `b**2 - a**2`using the following image  <img src="/square_difference_general.svg" alt="A graph showing two tiled squares, one inscribed into the other, with coinciding bottom left corners." width="500px" height="500px">.
+In general, for any integer `b`, we can compute `b**2` by drawing a tiled square, with each side having length of `b` tiles. Assuming `0 < a < b`, we can compute the difference `b**2 - a**2`using the following image  <img src="squares1/square_difference_general.svg" alt="A graph showing two tiled squares, one inscribed into the other, with coinciding bottom left corners." width="500px" height="500px">.
 
 Note that this is a general case, the difference between two squares can be arbitrarily large, , consider for example b = 100 and a = 2.
 
