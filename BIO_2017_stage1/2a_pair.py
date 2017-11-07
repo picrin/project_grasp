@@ -72,7 +72,14 @@ def print_squares():
         if point % 6 == 0:
             print("")
         else:
-            print(squares[point], end="")
+            square = squares[point]
+            if square == 1:
+    	        print("X", end="")
+            elif square == 2:
+                print("O", end="")
+            else:
+                print("*", end="")
+
     print("")
 
 print_squares()
@@ -83,7 +90,6 @@ def main(p1, p2, m1, m2, t, d1, d2, player_number):
         next_player = 1
     
     print_squares()
-    # make a move!
     if t == 0:
         print("Reached simulation depth")
         return
@@ -93,7 +99,6 @@ def main(p1, p2, m1, m2, t, d1, d2, player_number):
     possible_edges = []
     for second_point in neighbourhood(p1, d1):
         possible_edges.append((p1, second_point))
-    print(taken_edges)
     edge_taken = False
 
     for possible_edge in possible_edges:
@@ -120,8 +125,4 @@ def main(p1, p2, m1, m2, t, d1, d2, player_number):
         new_p1 = (p1 + 1 - 1) % 36 + 1
         return main(new_p1, p2, m1, m2, t, d1, d2, player_number)
 
-#print(squares.values())
-
-#main(14, 10, 13, 17, 42, clockwise, anticlockwise, 1)
-
-main(2, 30, 13, 17, 100, clockwise, anticlockwise, 1)
+main(4, 10, 14, 23, 47, clockwise, anticlockwise, 1)
