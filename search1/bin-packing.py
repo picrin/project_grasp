@@ -76,12 +76,12 @@ def find_non_trivial(v, k):
 
 #print(optimal_packing(5, [2, 2, 1, 3, 1]))
 
-v=20
-#data = find_non_trivial(v, 7)
+v=7
+#data = find_non_trivial(v, 6)
 #print(data)
 
 #print(optimal_packing(v, [11, 7, 7, 6, 5, 3, 1]))
 #print(heuristic_packing(v, [11, 7, 7, 6, 5, 3, 1]))
 
-print(optimal_packing(v, [14,10,10,7,7,3,3,2,2,2]))
-print(heuristic_packing(v, [14,10,10,7,7,3,3,2,2,2]))
+print(optimal_packing(v, [3, 3, 2, 2, 2, 2]))
+print(heuristic_packing(v, [3, 3, 2, 2, 2, 2]))
